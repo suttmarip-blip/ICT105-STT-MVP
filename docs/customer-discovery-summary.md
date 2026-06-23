@@ -1,34 +1,18 @@
-# Customer Discovery Summary
+# README Update Template After Lab 03
 
-## Overview
+Add or update these sections in your repository README.md.
 
-The team conducted customer discovery activities to understand challenges faced by students in managing campus projects, events, and announcements.
+## Customer Problem Discovery Summary
+In Lab 03, our team collected early problem evidence from target users. The purpose was to confirm whether our selected problem from Lab 02 is real and important.
 
-## Key Findings
+## Target Respondents
+Describe who you interviewed or surveyed.
 
-1. Students frequently miss important announcements.
-2. Project deadlines are often forgotten.
-3. Event information is scattered across multiple platforms.
-4. Communication between project members is inconsistent.
-5. Students prefer a centralized system.
+## Main Evidence Found
+Summarize the repeated pain points and current workarounds.
 
-## Current Workarounds
+## Updated Problem Statement
+Write your revised problem statement based on evidence.
 
-- Messenger Groups
-- Facebook Pages
-- LINE Groups
-- Email Notifications
-
-## Validation Signals
-
-Most respondents experienced at least one of the identified problems.
-
-## Weak Evidence
-
-More responses are needed from lecturers and event organizers.
-
-## Next Steps
-
-- Continue collecting responses.
-- Design MVP features based on validated problems.
-- Create prototype screens.
+## Decision for Next Step
+Explain whether the team will continue, narrow the target segment, revise the problem, or change direction.
